@@ -8,7 +8,7 @@ challenges
 2.gathering result 
 3.same copy of vector present on each process for matrx vector product 
 
-. Input: Size of the vector. Output: resultant vector value (Print only once).
+. Input: Size of the vector which also size for matrix. Output: resultant vector value (Print only once).
 */
 #include <mpi.h>
 #include <stdio.h>
